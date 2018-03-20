@@ -7,12 +7,12 @@ import java.util.Scanner;
 public class Runner {
     Runner(){
     }
-    public void run(String url_file){
+    public void run(String file_url){
         String line;
         try{
             // FileReader reads text files in the default encoding.
             // Wrap FileReader in BufferedReader.
-            BufferedReader bufferedReader = new BufferedReader(new FileReader(url_file));
+            BufferedReader bufferedReader = new BufferedReader(new FileReader(file_url));
 
             // Wrap FileWriter in BufferedWriter.
             BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter("output.txt"));
