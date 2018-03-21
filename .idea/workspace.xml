@@ -1,79 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37d08a6a-6c6b-4b26-a175-deb3bba76f60" name="Default" comment="Added javaDocs">
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/ImgTag.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/LinesInFile.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/LinkTag.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/ManageStatistics.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/Runner.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/Statistable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/Statistics.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/allclasses-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/allclasses-noframe.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/ImgTag.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/LinesInFile.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/LinkTag.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/ManageStatistics.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/Runner.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/Statistable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/Statistics.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/constant-values.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/deprecated-list.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/help-doc.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-3.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-4.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-5.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-6.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-7.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-8.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-9.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/external/jquery/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_flat_75_ffffff_40x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-icons_222222_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-icons_2e83ff_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-icons_454545_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-icons_888888_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-icons_cd0a0a_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-1.10.2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.structure.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.structure.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils-ie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip/dist/jszip.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip/dist/jszip.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/member-search-index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/member-search-index.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/overview-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/package-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/package-list" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/package-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/package-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/package-use.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/resources/glass.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/resources/x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/script.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/search.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/stylesheet.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/type-search-index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/type-search-index.zip" />
+    <list default="true" id="37d08a6a-6c6b-4b26-a175-deb3bba76f60" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,12 +15,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Runner.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Runner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -143,16 +86,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Statistics.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Statistics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -233,6 +166,7 @@
         <option value="$PROJECT_DIR$/src/ManageStatistics.java" />
         <option value="$PROJECT_DIR$/input.txt" />
         <option value="$PROJECT_DIR$/src/Runner.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -316,6 +250,116 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -447,7 +491,7 @@
       <workItem from="1521542356313" duration="2818000" />
       <workItem from="1521550090358" duration="12278000" />
       <workItem from="1521626558511" duration="15076000" />
-      <workItem from="1521655892821" duration="2040000" />
+      <workItem from="1521655892821" duration="3234000" />
     </task>
     <task id="LOCAL-00001" summary="First commit - starting project">
       <created>1521550299045</created>
@@ -512,11 +556,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521658798763</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added javaDocs">
+      <created>1521659028698</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1521659028698</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32212000" />
+    <option name="totallyTimeSpent" value="33406000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -796,9 +847,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
