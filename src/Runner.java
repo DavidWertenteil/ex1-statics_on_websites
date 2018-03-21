@@ -1,64 +1,45 @@
-
 import java.io.*;
-import java.net.URL;
-import java.net.URLConnection;
-import java.util.Scanner;
+
 
 public class Runner {
-    Runner(){
-    }
-    public void run(String file_url){
+    /**
+     * @param file_url
+     */
+    public void run(String file_url) {
         String line;
-        try{
+        BufferedReader bufferedReader = null;
+        BufferedWriter bufferedWriter = null;
+        try {
             // FileReader reads text files in the default encoding.
             // Wrap FileReader in BufferedReader.
-            BufferedReader bufferedReader = new BufferedReader(new FileReader(file_url));
-
+            bufferedReader = new BufferedReader(new FileReader(file_url));
             // Wrap FileWriter in BufferedWriter.
-            BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter("output.txt"));
+            bufferedWriter = new BufferedWriter(new FileWriter("output.txt"));
 
-            // Loop reading URLs and writing results
-            while((line = bufferedReader.readLine()) != null) {
-                // Send to url statistics
-                String content;
-                URLConnection connection;
-                try {
-                    connection = new URL(line).openConnection();
-                    Scanner scanner = new Scanner(connection.getInputStream());
-                    scanner.useDelimiter("\\Z");
-                    content = scanner.next();
+            if (!bufferedReader.ready()) {
+                System.out.println("empty file");
+            } else {
+                ManageStatistics manageStatistics = new ManageStatistics();
 
-                    // Take statistics from the HTML page
-                    // Each statistic should be in it's own class and have an Interface connect between them.
-                    int img = content.length() - content.replace("<img", "img").length();
-                    int links = content.length() - content.replace("<link", "link").length();
-                    int lines = 0;
-                    for (int i = 0; i < content.length(); ++i)
-                        if (content.charAt(i) == '\n')
-                            lines++;
-
-                    // Save result in file
-                    bufferedWriter.write(line + " links:" + links + " images:" + img + " lines:" + lines + '\n');
-
-                }catch ( Exception ex ) {
-                    System.out.println("Unable to open or read HTML file with " + line + " URL");
-                    // If there was a problem connecting or reading then write error
-                    bufferedWriter.write(line + " error" + '\n');
-
+                // Loop reading URLs and writing results
+                while ((line = bufferedReader.readLine()) != null) {
+                    // Send to url statistics and Save result in file
+                    bufferedWriter.write(manageStatistics.getStatistics(line) + '\n');
                 }
             }
-
-            // Close files
-            bufferedReader.close();
-            bufferedWriter.close();
-        }
-        catch(FileNotFoundException ex) {
-            System.out.println("Unable to open file ");
-            System.exit(0);
-
-        }
-        catch(IOException ex) {
+        } catch (FileNotFoundException ex) {
+            System.out.println("missing file");
+        } catch (IOException ex) {
             ex.printStackTrace();
+        }
+        // Close files
+        finally {
+            try {
+                bufferedReader.close();
+                bufferedWriter.close();
+            } catch (IOException ex) {
+                System.out.println("cant close files");
+            }
         }
     }
 }

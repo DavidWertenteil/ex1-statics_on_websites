@@ -6,6 +6,5 @@ public class Statistics {
         }
         Runner run = new Runner();
         run.run(args[0]);
-
     }
 }
