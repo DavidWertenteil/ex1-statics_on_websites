@@ -3,7 +3,7 @@ import java.io.*;
 
 public class Runner {
     /**
-     * @param file_url
+     * @param file_url - The file with the URLs
      */
     public void run(String file_url) {
         String line;
