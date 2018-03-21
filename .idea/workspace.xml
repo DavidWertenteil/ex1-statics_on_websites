@@ -1,10 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37d08a6a-6c6b-4b26-a175-deb3bba76f60" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="37d08a6a-6c6b-4b26-a175-deb3bba76f60" name="Default" comment="Added javaDocs">
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/ImgTag.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/LinesInFile.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/LinkTag.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/ManageStatistics.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/Runner.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/Statistable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/Statistics.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/allclasses-frame.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/allclasses-noframe.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/ImgTag.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/LinesInFile.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/LinkTag.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/ManageStatistics.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/Runner.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/Statistable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/class-use/Statistics.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/constant-values.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/deprecated-list.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/help-doc.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-3.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-4.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-5.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-6.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-7.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-8.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-9.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/external/jquery/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-icons_222222_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-icons_2e83ff_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-icons_454545_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-icons_888888_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/images/ui-icons_cd0a0a_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-1.10.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.structure.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.structure.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils-ie.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip/dist/jszip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip/dist/jszip.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/member-search-index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/member-search-index.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/overview-tree.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/package-frame.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/package-list" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/package-summary.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/package-tree.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/package-use.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/resources/glass.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/resources/x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/stylesheet.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/type-search-index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaDoc/type-search-index.zip" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Runner.java" afterPath="$PROJECT_DIR$/src/Runner.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +88,8 @@
       <file leaf-file-name="Runner.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="60">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -227,6 +296,11 @@
             <path>
               <item name="ex1" type="b2602c69:ProjectViewProjectNode" />
               <item name="ex1-statics_on_websites" type="462c0819:PsiDirectoryNode" />
+              <item name="javaDoc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ex1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ex1-statics_on_websites" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -373,7 +447,7 @@
       <workItem from="1521542356313" duration="2818000" />
       <workItem from="1521550090358" duration="12278000" />
       <workItem from="1521626558511" duration="15076000" />
-      <workItem from="1521655892821" duration="1916000" />
+      <workItem from="1521655892821" duration="2040000" />
     </task>
     <task id="LOCAL-00001" summary="First commit - starting project">
       <created>1521550299045</created>
@@ -431,11 +505,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521658313061</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added javaDocs">
+      <created>1521658798763</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1521658798763</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32088000" />
+    <option name="totallyTimeSpent" value="32212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -486,7 +567,8 @@
     <MESSAGE value="Added classes" />
     <MESSAGE value="Fixes" />
     <MESSAGE value="works from my pc" />
-    <option name="LAST_COMMIT_MESSAGE" value="works from my pc" />
+    <MESSAGE value="Added javaDocs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added javaDocs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -714,8 +796,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="60">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
