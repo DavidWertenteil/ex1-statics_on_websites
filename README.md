@@ -21,4 +21,4 @@ The output for each URL will be "error" in case
 * In case of error you go to next URL in the list.
 
 If the input file is empty the program will display the string "empty file".
-if the input file cannot be open the program will display the string "missing file".
+If the input file cannot be open the program will display the string "missing file".
