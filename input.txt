@@ -1,1 +1,1 @@
-https://www.walla.co.il/
+https://stackify.com/best-practices-exceptions-java/

@@ -1,7 +1,18 @@
+/**
+ * @author DavidWertenteil
+ */
 public class Statistics {
+    /**
+     * @param args - Name of file containing the URLs
+     * @exception  RuntimeException if there is no file in command line
+     */
     public static void main(String[] args) {
-        if(args.length == 0){
-            System.err.println("No file found");
+        try {
+            if (args.length == 0) {
+               throw new RuntimeException("No file found");
+            }
+        }catch(RuntimeException ex){
+            System.err.println(ex.getMessage());
             System.exit(0);
         }
         Runner run = new Runner();

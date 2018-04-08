@@ -1,3 +1,6 @@
+/**
+ * @author DavidWertenteil
+ */
 public class LinesInFile extends Statistable{
     LinesInFile() {
         super.name = "lines";

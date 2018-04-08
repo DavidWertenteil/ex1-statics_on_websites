@@ -1,6 +1,9 @@
+/**
+ * @author DavidWertenteil
+ */
 abstract class Statistable {
-    String name = null;
-    String tag = null;
+    protected String name = null;
+    protected String tag = null;
 
     /**
      * @return Name of desired statistics

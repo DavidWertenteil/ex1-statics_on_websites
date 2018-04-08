@@ -1,17 +1,32 @@
+/**
+ * @author DavidWertenteil
+ */
+
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.Scanner;
 import java.util.Vector;
 
+
 public class ManageStatistics {
+    // Vector of desired statistics
     private Vector<Statistable> desiredStatistics = new Vector();
 
+    /**
+     * The c-tor
+     *  Add desired statistics to the vector
+     */
     ManageStatistics() {
         desiredStatistics.add(new LinkTag());
         desiredStatistics.add(new ImgTag());
         desiredStatistics.add(new LinesInFile());
     }
 
+    /**
+     * @param line - line in file
+     * @return The statistics of the desired URL
+     * @exception Exception if in exception was thrown from any connection reason
+     */
     public String getStatistics(String line) {
         String content;
         URLConnection connection;

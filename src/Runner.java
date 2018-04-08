@@ -1,23 +1,26 @@
 import java.io.*;
 
+/**
+ * @author DavidWertenteil
+ */
 
 public class Runner {
     /**
      * @param file_url - The file with the URLs
+     * @exception RuntimeException if file is empty
      */
-    public void run(String file_url) {
+    public void run(String file_url){
         String line;
         BufferedReader bufferedReader = null;
         BufferedWriter bufferedWriter = null;
         try {
-            // FileReader reads text files in the default encoding.
             // Wrap FileReader in BufferedReader.
             bufferedReader = new BufferedReader(new FileReader(file_url));
             // Wrap FileWriter in BufferedWriter.
             bufferedWriter = new BufferedWriter(new FileWriter("output.txt"));
 
             if (!bufferedReader.ready()) {
-                System.out.println("empty file");
+                throw new RuntimeException("empty file");
             } else {
                 ManageStatistics manageStatistics = new ManageStatistics();
 
@@ -27,17 +30,22 @@ public class Runner {
                     bufferedWriter.write(manageStatistics.getStatistics(line) + '\n');
                 }
             }
+        } catch (RuntimeException ex){
+            System.out.println(ex.getMessage());
         } catch (FileNotFoundException ex) {
             System.out.println("missing file");
+            System.exit(0);
         } catch (IOException ex) {
             ex.printStackTrace();
+            System.exit(0);
         }
         // Close files
         finally {
             try {
                 bufferedReader.close();
                 bufferedWriter.close();
-            } catch (IOException ex) {
+            }
+            catch (IOException ex) {
                 System.out.println("cant close files");
             }
         }
