@@ -25,7 +25,6 @@ public class ManageStatistics {
     /**
      * @param line - line in file
      * @return The statistics of the desired URL
-     * @exception Exception if in exception was thrown from any connection reason
      */
     public String getStatistics(String line) {
         String content;

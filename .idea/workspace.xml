@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37d08a6a-6c6b-4b26-a175-deb3bba76f60" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/input.txt" afterPath="$PROJECT_DIR$/input.txt" />
       <change beforePath="$PROJECT_DIR$/javaDoc/ImgTag.html" afterPath="$PROJECT_DIR$/javaDoc/ImgTag.html" />
       <change beforePath="$PROJECT_DIR$/javaDoc/LinesInFile.html" afterPath="$PROJECT_DIR$/javaDoc/LinesInFile.html" />
       <change beforePath="$PROJECT_DIR$/javaDoc/LinkTag.html" afterPath="$PROJECT_DIR$/javaDoc/LinkTag.html" />
@@ -34,38 +32,14 @@
       <change beforePath="$PROJECT_DIR$/javaDoc/index-files/index-8.html" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-8.html" />
       <change beforePath="$PROJECT_DIR$/javaDoc/index-files/index-9.html" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-9.html" />
       <change beforePath="$PROJECT_DIR$/javaDoc/index.html" afterPath="$PROJECT_DIR$/javaDoc/index.html" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/external/jquery/jquery.js" afterPath="$PROJECT_DIR$/javaDoc/jquery/external/jquery/jquery.js" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/jquery-1.10.2.js" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-1.10.2.js" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.css" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.js" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.js" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.min.css" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.min.css" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.min.js" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.min.js" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.structure.css" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.structure.css" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.structure.min.css" afterPath="$PROJECT_DIR$/javaDoc/jquery/jquery-ui.structure.min.css" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils-ie.js" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils-ie.js" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils.js" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils.js" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils.min.js" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip-utils/dist/jszip-utils.min.js" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/jszip/dist/jszip.js" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip/dist/jszip.js" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/jquery/jszip/dist/jszip.min.js" afterPath="$PROJECT_DIR$/javaDoc/jquery/jszip/dist/jszip.min.js" />
       <change beforePath="$PROJECT_DIR$/javaDoc/member-search-index.zip" afterPath="$PROJECT_DIR$/javaDoc/member-search-index.zip" />
       <change beforePath="$PROJECT_DIR$/javaDoc/overview-tree.html" afterPath="$PROJECT_DIR$/javaDoc/overview-tree.html" />
       <change beforePath="$PROJECT_DIR$/javaDoc/package-frame.html" afterPath="$PROJECT_DIR$/javaDoc/package-frame.html" />
       <change beforePath="$PROJECT_DIR$/javaDoc/package-summary.html" afterPath="$PROJECT_DIR$/javaDoc/package-summary.html" />
       <change beforePath="$PROJECT_DIR$/javaDoc/package-tree.html" afterPath="$PROJECT_DIR$/javaDoc/package-tree.html" />
       <change beforePath="$PROJECT_DIR$/javaDoc/package-use.html" afterPath="$PROJECT_DIR$/javaDoc/package-use.html" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/script.js" afterPath="$PROJECT_DIR$/javaDoc/script.js" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/search.js" afterPath="$PROJECT_DIR$/javaDoc/search.js" />
       <change beforePath="$PROJECT_DIR$/javaDoc/type-search-index.zip" afterPath="$PROJECT_DIR$/javaDoc/type-search-index.zip" />
-      <change beforePath="$PROJECT_DIR$/out/production/java project/Runner.class" afterPath="$PROJECT_DIR$/out/production/java project/Runner.class" />
-      <change beforePath="$PROJECT_DIR$/output.txt" afterPath="$PROJECT_DIR$/output.txt" />
-      <change beforePath="$PROJECT_DIR$/src/ImgTag.java" afterPath="$PROJECT_DIR$/src/ImgTag.java" />
-      <change beforePath="$PROJECT_DIR$/src/LinesInFile.java" afterPath="$PROJECT_DIR$/src/LinesInFile.java" />
-      <change beforePath="$PROJECT_DIR$/src/LinkTag.java" afterPath="$PROJECT_DIR$/src/LinkTag.java" />
       <change beforePath="$PROJECT_DIR$/src/ManageStatistics.java" afterPath="$PROJECT_DIR$/src/ManageStatistics.java" />
-      <change beforePath="$PROJECT_DIR$/src/Runner.java" afterPath="$PROJECT_DIR$/src/Runner.java" />
-      <change beforePath="$PROJECT_DIR$/src/Statistable.java" afterPath="$PROJECT_DIR$/src/Statistable.java" />
-      <change beforePath="$PROJECT_DIR$/src/Statistics.java" afterPath="$PROJECT_DIR$/src/Statistics.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/src/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -166,8 +140,8 @@
       <file leaf-file-name="ManageStatistics.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ManageStatistics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            <state relative-caret-position="675">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -436,7 +410,7 @@
       <workItem from="1521979744864" duration="426000" />
       <workItem from="1522591540734" duration="599000" />
       <workItem from="1523171180680" duration="64000" />
-      <workItem from="1523171322436" duration="5470000" />
+      <workItem from="1523171322436" duration="5771000" />
     </task>
     <task id="LOCAL-00001" summary="First commit - starting project">
       <created>1521550299045</created>
@@ -508,11 +482,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521659028698</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="comments">
+      <created>1523177321521</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1523177321521</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41384000" />
+    <option name="totallyTimeSpent" value="41685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -527,7 +508,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3772936" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3772936" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -593,7 +574,8 @@
     <MESSAGE value="Fixes" />
     <MESSAGE value="works from my pc" />
     <MESSAGE value="Added javaDocs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added javaDocs" />
+    <MESSAGE value="comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -960,7 +942,7 @@
     <entry file="file://$PROJECT_DIR$/src/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1018,8 +1000,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ManageStatistics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        <state relative-caret-position="675">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
